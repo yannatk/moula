@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1035549461921",
+    "project_id": "moula-da924",
+    "storage_bucket": "moula-da924.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035549461921:android:4e958e231f8814b9330fe0",
+        "android_client_info": {
+          "package_name": "com.yannatk.moula"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqJKP7CUdjvGIo1-rMqaqi8pGnNbksLtU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

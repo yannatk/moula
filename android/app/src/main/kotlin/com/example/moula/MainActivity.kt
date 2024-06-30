@@ -1,4 +1,4 @@
-package com.example.moula
+package com.yannatk.moula
 
 import io.flutter.embedding.android.FlutterActivity
 
