@@ -12,10 +12,7 @@ class MyApp extends ConsumerWidget {
     return MaterialApp.router(
       title: 'Moula',
       theme: ThemeData(
-        colorScheme: ColorScheme.fromSeed(
-          seedColor: Colors.black,
-          secondary: Colors.white,
-        ),
+        primarySwatch: Colors.blue,
         useMaterial3: true,
       ),
       debugShowCheckedModeBanner: false,
