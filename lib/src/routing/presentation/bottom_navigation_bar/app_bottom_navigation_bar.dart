@@ -24,12 +24,12 @@ class AppBottomNavigationBar extends StatelessWidget {
         selectedIndex: navigationShell.currentIndex,
         destinations: const [
           NavigationDestination(
-            selectedIcon: Icon(Icons.calendar_month, color: Colors.cyan),
+            selectedIcon: Icon(Icons.calendar_month),
             icon: Icon(Icons.calendar_today),
             label: 'Calendrier',
           ),
           NavigationDestination(
-            selectedIcon: Icon(Icons.list, color: Colors.cyan),
+            selectedIcon: Icon(Icons.list),
             icon: Icon(Icons.list),
             label: 'Transactions',
           ),
